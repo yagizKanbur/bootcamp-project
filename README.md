@@ -3,6 +3,7 @@
 ## Project timeline
 
 26.07.2021 - Start 
+
 08.08.201 - Deadline
 
 ## Prerequisites
