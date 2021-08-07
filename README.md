@@ -45,7 +45,7 @@ This service is responsible for noticing price and stock changes and at that tim
 
 ## What I Learned From This Project
 
-In this project I had the chance to use Spring Framework, Kafka and Docker. While working on the project I read various resources, project design could've been changed, and implementations could be made based on resources bellow. 
+In this project I had the chance to use Spring Framework, Kafka and Docker on a real life problem. While working on the project I read various resources, project design could've been changed, and implementations could be made based on resources bellow. 
 
 ## Resources
 Project Design
