@@ -10,7 +10,7 @@
 * Docker Engine
 
 ## Project Architecture
-![Project Architecture](https://github.com/yagizKanbur/bootcamp-project/design.png)
+![Project Architecture](https://github.com/yagizKanbur/bootcamp-project/blob/main/design.png)
 
 ## Quick Start
 Clone the repositories
